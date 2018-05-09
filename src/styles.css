@@ -1,1 +1,29 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+  text-align: center;
+}
+
+video {
+  border-radius: 10px;
+  width: 90%;
+  margin: 15px 5% 0 5%;
+  box-shadow: rgba(10, 16, 20, 0.24) 0px 2px 5px;
+  overflow: hidden;
+}
+
+label {
+  display: inline-block;
+  padding: 10px 5px;
+  font-size: 16px;
+  user-select: none;
+  text-transform: uppercase;
+  letter-spacing: -0.1px;
+  font-family: Lato;
+  color: #666;
+  font-weight: 700;
+}
+
+input {
+  vertical-align: top;
+  font-size: 26px;
+  margin-right: 5px;
+}
