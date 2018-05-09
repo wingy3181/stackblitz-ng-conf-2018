@@ -1,6 +1,8 @@
 # wingy3181-ng-conf-2018
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
+This project was exported via [StackBlitz](stackblitz.com) and generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
+
+Code changes are the same as what was done during the [talk given by the StackBlitz guys @ ng-conf-2018][YouTube | ng-conf-2018 | Using StackBlitz & Angular for Rapid App Prototyping - Eric Simons and Albert Pai]
 
 ## Development server
 
@@ -26,3 +28,11 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## References
+
+- [StackBlitz - github/wingy3181/stackblitz-ng-conf-2018](https://stackblitz.com/github/wingy3181/stackblitz-ng-conf-2018)
+- [YouTube | ng-conf-2018 | StackBlitz + Angular A Better Way to Build PWA's - Albert Pai, Eric Simons](https://www.youtube.com/watch?v=P1-HAN1g4_4)
+- [YouTube | ng-conf-2018 | Using StackBlitz & Angular for Rapid App Prototyping - Eric Simons and Albert Pai][YouTube | ng-conf-2018 | Using StackBlitz & Angular for Rapid App Prototyping - Eric Simons and Albert Pai]
+
+[YouTube | ng-conf-2018 | Using StackBlitz & Angular for Rapid App Prototyping - Eric Simons and Albert Pai]: https://www.youtube.com/watch?v=EBzoTnX6LzU
